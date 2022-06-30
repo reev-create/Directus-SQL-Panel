@@ -5,10 +5,10 @@ Originally by harish2704
 
 ## Instructions
 1. Copy the directory **sql-panel-api** to 
-**[directus directory]/extensions/endpoints/sql-panel-api/index.js**
+**[directus directory]/extensions/endpoints/**
 
 2. Copy the directory **sql-panel** to 
-**[directus directory]/extensions/panels/sql-panel/index.js**
+**[directus directory]/extensions/panels/**
 
 3. Restart your directus app!
 
