@@ -4,12 +4,10 @@ Originally by harish2704
 # Installation
 
 ## Instructions
-1. Create a file at **[directus directory]/extensions/endpoints/sql-panel-api/index.js**
-and copy the content of **sql-panel-api/index.js** to 
+1. Copy the directory **sql-panel-api/index.js** to 
 **[directus directory]/extensions/endpoints/sql-panel-api/index.js**
 
-2. Create a file at **<directus directory>/extensions/panels/sql-panel/index.js**
-and copy the content of **sql-panel/index.js** to 
+2. Copy the directory **sql-panel/index.js** to 
 **[directus directory]/extensions/panels/sql-panel/index.js**
 
 3. Restart your directus app!
